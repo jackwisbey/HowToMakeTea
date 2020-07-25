@@ -24,11 +24,15 @@ footer {
 }
 nav {
   font-size: 10px;
-  background: #d8d8d8
+  background: #A5DDFF;
   font-weight: bold;
   float: left;
   height: 100px;
-  opacity: 0.8;
+  opacity: 1;
+  border-style: solid;
+  border-color: #888888;
+  border-width: 2px;
+  padding: 2px;
 }
 h1 {
   font-size: 42px;
